@@ -24,11 +24,11 @@ function platform
 
 platform
         echo ""
-	echo "-------------------------------------"
-	echo " Flash Motorola Rom Files from Linux "
-	echo "-------------------------------------"
-	echo "    'Press Enter' to flash files     "
-	echo "-------------------------------------"
+	echo "---------------------------------------"
+	echo " Flash 'Motorola ROM Files' from Linux "
+	echo "---------------------------------------"
+	echo "     'Press Enter' to flash files      "
+	echo "---------------------------------------"
 	echo ""
     		    read \n
 getValue(){
