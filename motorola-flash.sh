@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # -----------------------------------------------------------------
-# MOTOROLA Flash ROM files on Linux.
+# MOTOROLA Flash ROM files from Linux.
 # Tested on Arch Linux.
 # -----------------------------------------------------------------
 # Written by: Arthur de O. Pereira <https://github.com/Arthoruis/>
